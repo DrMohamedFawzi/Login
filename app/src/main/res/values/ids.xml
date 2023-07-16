@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listView" type="id" />
+    <item name="buttonSubmit" type="id" />
+    <item name="editTextTime" type="id" />
+    <item name="editTextName" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="textViewData" type="id" />
+</resources>
